@@ -1,0 +1,80 @@
+{
+  "mode": "built-in image_gen",
+  "assets": [
+    {
+      "slug": "moika-okon",
+      "path": "public/images/services/moika-okon.webp",
+      "prompt": "Use case: photorealistic-natural. Asset type: professional architectural maintenance website service photograph, moika-okon. Primary request: Worker using a professional squeegee on a big glass window, close-up of gloved hands, crisp wet glass and reflections. Style: photorealistic editorial professional architectural work photography. Composition: landscape 3:2, single full-frame scene, clear central subject readable as a service card. Lighting: natural daylight. Palette: grey and blue architecture with yellow workwear details where workers appear. Constraints: anatomically accurate hands, accurate tools and PPE, faces turned away or outside frame, no identifiable faces. No text, logos, signage, watermarks, borders or collage."
+    },
+    {
+      "slug": "moika-fasadov-zdanii",
+      "path": "public/images/services/moika-fasadov-zdanii.webp",
+      "prompt": "Use case: photorealistic-natural. Asset type: professional architectural maintenance website service photograph, moika-fasadov-zdanii. Primary request: Worker pressure washing a stone building facade, fan of water visibly cleaning the stone, safe position on ground. Style: photorealistic editorial professional architectural work photography. Composition: landscape 3:2, single full-frame scene, clear central subject readable as a service card. Lighting: natural daylight. Palette: grey and blue architecture with yellow workwear details where workers appear. Constraints: anatomically accurate hands, accurate tools and PPE, faces turned away or outside frame, no identifiable faces. No text, logos, signage, watermarks, borders or collage."
+    },
+    {
+      "slug": "obespylivanie",
+      "path": "public/images/services/obespylivanie.webp",
+      "prompt": "Use case: photorealistic-natural. Asset type: professional architectural maintenance website service photograph, obespylivanie. Primary request: Worker using an industrial vacuum for dust removal in a warehouse, commercial vacuum nozzle against concrete surfaces. Style: photorealistic editorial professional architectural work photography. Composition: landscape 3:2, single full-frame scene, clear central subject readable as a service card. Lighting: natural daylight. Palette: grey and blue architecture with yellow workwear details where workers appear. Constraints: anatomically accurate hands, accurate tools and PPE, faces turned away or outside frame, no identifiable faces. No text, logos, signage, watermarks, borders or collage."
+    },
+    {
+      "slug": "montazhnye-raboty-na-vysote",
+      "path": "public/images/services/montazhnye-raboty-na-vysote.webp",
+      "prompt": "Use case: photorealistic-natural. Asset type: professional architectural maintenance website service photograph, montazhnye-raboty-na-vysote. Primary request: Rope access technician mounting a facade bracket, helmet, full harness, two distinct secured ropes, accurate professional rope access equipment. Style: photorealistic editorial professional architectural work photography. Composition: landscape 3:2, single full-frame scene, clear central subject readable as a service card. Lighting: natural daylight. Palette: grey and blue architecture with yellow workwear details where workers appear. Constraints: anatomically accurate hands, accurate tools and PPE, faces turned away or outside frame, no identifiable faces. No text, logos, signage, watermarks, borders or collage."
+    },
+    {
+      "slug": "takelazhnye-raboty",
+      "path": "public/images/services/takelazhnye-raboty.webp",
+      "prompt": "Use case: photorealistic-natural. Asset type: professional architectural maintenance website service photograph, takelazhnye-raboty. Primary request: Professional riggers lifting heavy industrial equipment with a crane and correctly arranged heavy lifting straps, secured load, workers standing clear. Style: photorealistic editorial professional architectural work photography. Composition: landscape 3:2, single full-frame scene, clear central subject readable as a service card. Lighting: natural daylight. Palette: grey and blue architecture with yellow workwear details where workers appear. Constraints: anatomically accurate hands, accurate tools and PPE, faces turned away or outside frame, no identifiable faces. No text, logos, signage, watermarks, borders or collage."
+    },
+    {
+      "slug": "remont-fasadov",
+      "path": "public/images/services/remont-fasadov.webp",
+      "prompt": "Use case: photorealistic-natural. Asset type: professional architectural maintenance website service photograph, remont-fasadov. Primary request: Worker repairing exterior plaster wall with a hand trowel, close view of fresh plaster and realistic rough wall textures. Style: photorealistic editorial professional architectural work photography. Composition: landscape 3:2, single full-frame scene, clear central subject readable as a service card. Lighting: natural daylight. Palette: grey and blue architecture with yellow workwear details where workers appear. Constraints: anatomically accurate hands, accurate tools and PPE, faces turned away or outside frame, no identifiable faces. No text, logos, signage, watermarks, borders or collage."
+    },
+    {
+      "slug": "uteplenie-fasadov",
+      "path": "public/images/services/uteplenie-fasadov.webp",
+      "prompt": "Use case: photorealistic-natural. Asset type: professional architectural maintenance website service photograph, uteplenie-fasadov. Primary request: Worker installing mineral wool insulation slabs on a building facade, close view of dense fibrous insulation and anchors. Style: photorealistic editorial professional architectural work photography. Composition: landscape 3:2, single full-frame scene, clear central subject readable as a service card. Lighting: natural daylight. Palette: grey and blue architecture with yellow workwear details where workers appear. Constraints: anatomically accurate hands, accurate tools and PPE, faces turned away or outside frame, no identifiable faces. No text, logos, signage, watermarks, borders or collage."
+    },
+    {
+      "slug": "germetizatsiya-mezhpanelnyh-shvov",
+      "path": "public/images/services/germetizatsiya-mezhpanelnyh-shvov.webp",
+      "prompt": "Use case: photorealistic-natural. Asset type: professional architectural maintenance website service photograph, germetizatsiya-mezhpanelnyh-shvov. Primary request: Worker using caulking gun to seal a concrete facade panel joint, close view of straight panel seam and gloved hands. Style: photorealistic editorial professional architectural work photography. Composition: landscape 3:2, single full-frame scene, clear central subject readable as a service card. Lighting: natural daylight. Palette: grey and blue architecture with yellow workwear details where workers appear. Constraints: anatomically accurate hands, accurate tools and PPE, faces turned away or outside frame, no identifiable faces. No text, logos, signage, watermarks, borders or collage."
+    },
+    {
+      "slug": "shtukaturnye-i-pokrasochnye-raboty",
+      "path": "public/images/services/shtukaturnye-i-pokrasochnye-raboty.webp",
+      "prompt": "Use case: photorealistic-natural. Asset type: professional architectural maintenance website service photograph, shtukaturnye-i-pokrasochnye-raboty. Primary request: Worker applying exterior paint with a roller to plaster facade, medium close-up, realistic roller and wet paint texture. Style: photorealistic editorial professional architectural work photography. Composition: landscape 3:2, single full-frame scene, clear central subject readable as a service card. Lighting: natural daylight. Palette: grey and blue architecture with yellow workwear details where workers appear. Constraints: anatomically accurate hands, accurate tools and PPE, faces turned away or outside frame, no identifiable faces. No text, logos, signage, watermarks, borders or collage."
+    },
+    {
+      "slug": "osteklenie-fasadov",
+      "path": "public/images/services/osteklenie-fasadov.webp",
+      "prompt": "Use case: photorealistic-natural. Asset type: professional architectural maintenance website service photograph, osteklenie-fasadov. Primary request: Professional installation of a large glass facade pane using a suction lifting frame, accurate industrial vacuum glass lifter and safe handling. Style: photorealistic editorial professional architectural work photography. Composition: landscape 3:2, single full-frame scene, clear central subject readable as a service card. Lighting: natural daylight. Palette: grey and blue architecture with yellow workwear details where workers appear. Constraints: anatomically accurate hands, accurate tools and PPE, faces turned away or outside frame, no identifiable faces. No text, logos, signage, watermarks, borders or collage."
+    },
+    {
+      "slug": "ustanovka-steklopaketov",
+      "path": "public/images/services/ustanovka-steklopaketov.webp",
+      "prompt": "Use case: photorealistic-natural. Asset type: professional architectural maintenance website service photograph, ustanovka-steklopaketov. Primary request: Close-up of worker installing a double glazed window unit into a modern window opening, gloved hands and accurate window construction. Style: photorealistic editorial professional architectural work photography. Composition: landscape 3:2, single full-frame scene, clear central subject readable as a service card. Lighting: natural daylight. Palette: grey and blue architecture with yellow workwear details where workers appear. Constraints: anatomically accurate hands, accurate tools and PPE, faces turned away or outside frame, no identifiable faces. No text, logos, signage, watermarks, borders or collage."
+    },
+    {
+      "slug": "bezramnoe-osteklenie",
+      "path": "public/images/services/bezramnoe-osteklenie.webp",
+      "prompt": "Use case: photorealistic-natural. Asset type: professional architectural maintenance website service photograph, bezramnoe-osteklenie. Primary request: Finished elegant frameless glass terrace, continuous clear glazing with subtle minimal joints, modern grey architecture, no workers. Style: photorealistic editorial professional architectural work photography. Composition: landscape 3:2, single full-frame scene, clear central subject readable as a service card. Lighting: natural daylight. Palette: grey and blue architecture with yellow workwear details where workers appear. Constraints: anatomically accurate hands, accurate tools and PPE, faces turned away or outside frame, no identifiable faces. No text, logos, signage, watermarks, borders or collage."
+    },
+    {
+      "slug": "remont-myagkoi-krovli",
+      "path": "public/images/services/remont-myagkoi-krovli.webp",
+      "prompt": "Use case: photorealistic-natural. Asset type: professional architectural maintenance website service photograph, remont-myagkoi-krovli. Primary request: Professional roofer repairing a flat bituminous membrane roof, accurate rolled membrane, gloves and kneepads, realistic work scene. Style: photorealistic editorial professional architectural work photography. Composition: landscape 3:2, single full-frame scene, clear central subject readable as a service card. Lighting: natural daylight. Palette: grey and blue architecture with yellow workwear details where workers appear. Constraints: anatomically accurate hands, accurate tools and PPE, faces turned away or outside frame, no identifiable faces. No text, logos, signage, watermarks, borders or collage."
+    },
+    {
+      "slug": "remont-metallicheskoi-krovli",
+      "path": "public/images/services/remont-metallicheskoi-krovli.webp",
+      "prompt": "Use case: photorealistic-natural. Asset type: professional architectural maintenance website service photograph, remont-metallicheskoi-krovli. Primary request: Professional roofer fastening a standing seam metal roof, safe harness and fall protection, close view of metal seams and fastening tool. Style: photorealistic editorial professional architectural work photography. Composition: landscape 3:2, single full-frame scene, clear central subject readable as a service card. Lighting: natural daylight. Palette: grey and blue architecture with yellow workwear details where workers appear. Constraints: anatomically accurate hands, accurate tools and PPE, faces turned away or outside frame, no identifiable faces. No text, logos, signage, watermarks, borders or collage."
+    },
+    {
+      "slug": "ustranenie-protechek-krovel",
+      "path": "public/images/services/ustranenie-protechek-krovel.webp",
+      "prompt": "Use case: photorealistic-natural. Asset type: professional architectural maintenance website service photograph, ustranenie-protechek-krovel. Primary request: Close-up of professional roofer sealing a roof flashing joint, gloved hands and caulking gun, realistic waterproof seal at metal flashing. Style: photorealistic editorial professional architectural work photography. Composition: landscape 3:2, single full-frame scene, clear central subject readable as a service card. Lighting: natural daylight. Palette: grey and blue architecture with yellow workwear details where workers appear. Constraints: anatomically accurate hands, accurate tools and PPE, faces turned away or outside frame, no identifiable faces. No text, logos, signage, watermarks, borders or collage."
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+node_modules/
+.local-server/
+.next/
+out/
+.env*
+!.env.example
+*.tsbuildinfo
+docs/source-*.html
+public/client-logo.png

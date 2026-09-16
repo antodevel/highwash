@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 40 40">
+  <title>Highwash</title>
+  <g transform="translate(10 4) skewX(-17)">
+    <path fill="#252825" d="M0 10h7v22H0z"/>
+    <path fill="#f5d21e" d="M10 0h7v32h-7z"/>
+    <path fill="#252825" d="M20 17h7v15h-7z"/>
+  </g>
+</svg>
