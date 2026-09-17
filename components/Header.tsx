@@ -1,5 +1,5 @@
 "use client";
-import Link from "next/link";
+import { NavigationLink as Link } from "./NavigationLink";
 import { useEffect, useRef, useState } from "react";
 import { Menu, X, ArrowUpRight, Phone } from "lucide-react";
 import { Logo } from "./Logo";

@@ -1,4 +1,4 @@
-import Link from "next/link";
+import { NavigationLink as Link } from "./NavigationLink";
 export function Logo() {
   // Text wordmark placeholder. Source catalog logo says «Чистая Работа», not Highwash.
   return (

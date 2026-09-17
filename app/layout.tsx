@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import "./globals.css";
 import { Header } from "@/components/Header";
+import { DemoBanner } from "@/components/DemoBanner";
 import { siteUrl } from "@/data/site";
 export const metadata: Metadata = {
   title: {
@@ -34,11 +35,12 @@ export default function RootLayout({
   children: React.ReactNode;
 }) {
   return (
-    <html lang="ru">
+    <html lang="ru" data-demo-banner="visible">
       <body>
         <a className="skip-link" href="#main">
           К содержимому
         </a>
+        <DemoBanner />
         <Header />
         {children}
         <script
